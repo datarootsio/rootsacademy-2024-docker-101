@@ -1,2 +1,2 @@
-dagster==1.8.4
+dagster==1.13.1
 dagster-webserver==1.8.4
